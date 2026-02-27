@@ -4,7 +4,7 @@
 
 ### 🌟 Features
 - **Dual AI Engine:** Google Gemini Pro සහ Groq Cloud (Llama 3) යන දෙකම පාවිච්චි කළ හැක.
-- **Deep Extraction:** EPS, NAV, PE, ROE, PBV සහ තවත් මූල්‍ය දත්ත රාශියක් ස්වයංක්‍රීයව පෙරහන් කරයි.
+- **Deep Extraction:** EPS, NAV, PE, ROE, PBV සහ තවත් RATIOS මූල්‍ය දත්ත රාශියක් ස්වයංක්‍රීයව පෙරහන් කරයි.
 - **One-Click Export:** සියලුම දත්ත සාරාංශයක් ලෙස Excel ගොනුවකට බාගත කළ හැක.
 
 ### 🛠️ පාවිච්චි කරන ආකාරය (How to Use)
@@ -16,7 +16,7 @@
 
 ---
 ### 👨‍💻 Developed By
-**Prasad Nalaka** *Gampaha, Sri Lanka*
+**Prasad Nalaka** *ANURADAPURA, Sri Lanka*
 
 ---
 > **සටහන:** මෙහි දත්ත AI තාක්ෂණය මගින් ලබාගන්නා බැවින්, අවසන් තීරණ ගැනීමට පෙර දත්ත නැවත පරීක්ෂා කර බැලීමට කාරුණික වන්න.
