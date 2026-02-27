@@ -865,3 +865,19 @@ else:
     </div>
 </div>
 """, unsafe_allow_html=True)
+# --- FOOTER SECTION ---
+st.markdown("---")
+st.markdown(
+    """
+    <div style="text-align: center; padding: 20px;">
+        <p style="color: rgba(160, 174, 192, 0.8); font-size: 1rem; margin-bottom: 5px;">
+            🚀 Developed with ❤️ by 
+            <b style="color: #63b3ed; font-size: 1.1rem;">Prasad Nalaka</b>
+        </p>
+        <div style="font-size: 0.8rem; color: rgba(160, 174, 192, 0.5);">
+            Anuradapura , Sri Lanka | CSE Pro Financial Analyzer v1.0
+        </div>
+    </div>
+    """, 
+    unsafe_allow_html=True
+)
