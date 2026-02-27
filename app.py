@@ -864,7 +864,11 @@ else:
         <b style="color:#4285f4;">✨ Gemini Pro</b> for larger reports!
     </div>
 </div>
-# --- FOOTER SECTION ---
+</div>
+    </div>
+    """, unsafe_allow_html=True) # මෙතනින් කලින් තිබ්බ markdown එක ඉවරයි.
+
+# --- මෙන්න මේ ටික දැන් අලුතෙන් පටන් ගන්න ඕනේ ---
 st.markdown("---")
 st.markdown(
     """
@@ -874,7 +878,7 @@ st.markdown(
             <b style="color: #63b3ed; font-size: 1.1rem;">Prasad Nalaka</b>
         </p>
         <div style="font-size: 0.8rem; color: rgba(160, 174, 192, 0.5);">
-            Gampaha, Sri Lanka | CSE Pro Financial Analyzer v1.0
+            ANURADAPURA, Sri Lanka | CSE Pro Financial Analyzer v1.0
         </div>
     </div>
     """, 
