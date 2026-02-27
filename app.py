@@ -866,9 +866,9 @@ else:
 </div>
 </div>
     </div>
-    """, unsafe_allow_html=True) # මෙතනින් කලින් තිබ්බ markdown එක ඉවරයි.
+""", unsafe_allow_html=True) 
 
-# --- මෙන්න මේ ටික දැන් අලුතෙන් පටන් ගන්න ඕනේ ---
+# --- අලුත් Footer එක මෙතනින් පටන් ගන්නවා ---
 st.markdown("---")
 st.markdown(
     """
@@ -878,7 +878,7 @@ st.markdown(
             <b style="color: #63b3ed; font-size: 1.1rem;">Prasad Nalaka</b>
         </p>
         <div style="font-size: 0.8rem; color: rgba(160, 174, 192, 0.5);">
-            ANURADAPURA, Sri Lanka | CSE Pro Financial Analyzer v1.0
+            Anuradhapura, Sri Lanka | CSE Pro Financial Analyzer v1.0
         </div>
     </div>
     """, 
