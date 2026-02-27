@@ -864,7 +864,6 @@ else:
         <b style="color:#4285f4;">✨ Gemini Pro</b> for larger reports!
     </div>
 </div>
-""", unsafe_allow_html=True)
 # --- FOOTER SECTION ---
 st.markdown("---")
 st.markdown(
@@ -875,7 +874,7 @@ st.markdown(
             <b style="color: #63b3ed; font-size: 1.1rem;">Prasad Nalaka</b>
         </p>
         <div style="font-size: 0.8rem; color: rgba(160, 174, 192, 0.5);">
-            Anuradapura , Sri Lanka | CSE Pro Financial Analyzer v1.0
+            Gampaha, Sri Lanka | CSE Pro Financial Analyzer v1.0
         </div>
     </div>
     """, 
